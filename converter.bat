@@ -1,0 +1,1 @@
+D:\pylerning\vkonline\venv\Scripts\pyuic5.exe  vkonline.ui -o vkonline.py
